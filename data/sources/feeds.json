@@ -1,0 +1,332 @@
+{
+  "schema_version": 1,
+  "notice": "Feeds are collected only when their documented rights cover the complete processing path. Free public licenses may authorize in-app summaries without a paid contract, subject to the exact license conditions. Easy Mandarin News is a secondary, AI-edited Chinese news source under CC BY 4.0; summaries must identify Easy Mandarin News and link its article page, which provides upstream source/byline information. Horizon Magazine is authorized for free republication under CC BY 4.0 with required original-journalist byline, original-story link, exact publication credit, license link and change notice. VOA Chinese original text is declared public domain by VOA and is credited; entries marked with third-party news-agency material are excluded. ChinaNews and other unverified feeds remain blocked.",
+  "feeds": [
+    {
+      "id": "chinanews-domestic",
+      "name": "中国新闻网",
+      "article_hosts": [
+        "www.chinanews.com.cn"
+      ],
+      "category": "国内新闻",
+      "content_type": "news",
+      "url": "https://www.chinanews.com.cn/rss/china.xml",
+      "max_entries": 50,
+      "enabled": true
+    },
+    {
+      "id": "chinanews-world",
+      "name": "中国新闻网",
+      "article_hosts": [
+        "www.chinanews.com.cn"
+      ],
+      "category": "国际新闻",
+      "content_type": "news",
+      "url": "https://www.chinanews.com.cn/rss/world.xml",
+      "max_entries": 30,
+      "enabled": true
+    },
+    {
+      "id": "chinanews-society",
+      "name": "中国新闻网",
+      "article_hosts": [
+        "www.chinanews.com.cn"
+      ],
+      "category": "社会新闻",
+      "content_type": "news",
+      "url": "https://www.chinanews.com.cn/rss/society.xml",
+      "max_entries": 30,
+      "enabled": true
+    },
+    {
+      "id": "chinanews-finance",
+      "name": "中国新闻网",
+      "article_hosts": [
+        "www.chinanews.com.cn"
+      ],
+      "category": "财经新闻",
+      "content_type": "news",
+      "url": "https://www.chinanews.com.cn/rss/finance.xml",
+      "max_entries": 30,
+      "enabled": true
+    },
+    {
+      "id": "chinanews-life",
+      "name": "中国新闻网",
+      "article_hosts": [
+        "www.chinanews.com.cn"
+      ],
+      "category": "生活资讯",
+      "content_type": "news",
+      "url": "https://www.chinanews.com.cn/rss/life.xml",
+      "max_entries": 20,
+      "enabled": true
+    },
+    {
+      "id": "chinanews-culture",
+      "name": "中国新闻网",
+      "article_hosts": [
+        "www.chinanews.com.cn"
+      ],
+      "category": "文化文娱",
+      "content_type": "news",
+      "url": "https://www.chinanews.com.cn/rss/culture.xml",
+      "max_entries": 30,
+      "enabled": true
+    },
+    {
+      "id": "chinanews-sports",
+      "name": "中国新闻网",
+      "article_hosts": [
+        "www.chinanews.com.cn"
+      ],
+      "category": "体育新闻",
+      "content_type": "news",
+      "url": "https://www.chinanews.com.cn/rss/sports.xml",
+      "max_entries": 30,
+      "enabled": true
+    },
+    {
+      "id": "chinanews-education",
+      "name": "中国新闻网",
+      "article_hosts": [
+        "www.chinanews.com.cn"
+      ],
+      "category": "教育新闻",
+      "content_type": "news",
+      "url": "https://www.chinanews.com.cn/rss/edu.xml",
+      "max_entries": 20,
+      "enabled": true
+    },
+    {
+      "id": "chinanews-legal",
+      "name": "中国新闻网",
+      "article_hosts": [
+        "www.chinanews.com.cn"
+      ],
+      "category": "法治新闻",
+      "content_type": "news",
+      "url": "https://www.chinanews.com.cn/rss/fz.xml",
+      "max_entries": 20,
+      "enabled": true
+    },
+    {
+      "id": "github-blog",
+      "name": "GitHub Blog",
+      "article_hosts": [
+        "github.blog"
+      ],
+      "category": "developer-tools",
+      "content_type": "article",
+      "url": "https://github.blog/feed/",
+      "enabled": true
+    },
+    {
+      "id": "openai-news",
+      "name": "OpenAI News",
+      "article_hosts": [
+        "openai.com"
+      ],
+      "category": "large-models",
+      "content_type": "article",
+      "url": "https://openai.com/news/rss.xml",
+      "max_entries": 50,
+      "enabled": true
+    },
+    {
+      "id": "inside-java",
+      "name": "Inside Java",
+      "article_hosts": [
+        "inside.java"
+      ],
+      "category": "java-development",
+      "content_type": "article",
+      "url": "https://inside.java/feed",
+      "max_entries": 20,
+      "enabled": true
+    },
+    {
+      "id": "huggingface-blog",
+      "name": "Hugging Face Blog",
+      "article_hosts": [
+        "huggingface.co"
+      ],
+      "category": "open-source",
+      "content_type": "article",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "allow_title_only": true,
+      "title_only_max_age_hours": 48,
+      "enabled": true
+    },
+    {
+      "id": "arxiv-cs-ai",
+      "name": "arXiv cs.AI",
+      "article_hosts": [
+        "arxiv.org"
+      ],
+      "category": "research",
+      "content_type": "article",
+      "url": "https://export.arxiv.org/rss/cs.AI",
+      "enabled": true,
+      "evidence_scope": "metadata_abstract",
+      "max_entries": 100,
+      "license_name": "CC0 1.0（仅 arXiv 描述性元数据）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "republish_credit": "来源：arXiv；作者与论文链接见原文页面。",
+      "change_notice": "摘要由 AI 根据 arXiv CC0 元数据（标题、摘要等）整理；未读取或转载论文全文。"
+    },
+    {
+      "id": "arxiv-cs-lg",
+      "name": "arXiv cs.LG",
+      "article_hosts": [
+        "arxiv.org"
+      ],
+      "category": "research",
+      "content_type": "article",
+      "url": "https://export.arxiv.org/rss/cs.LG",
+      "enabled": true,
+      "evidence_scope": "metadata_abstract",
+      "max_entries": 100,
+      "license_name": "CC0 1.0（仅 arXiv 描述性元数据）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "republish_credit": "来源：arXiv；作者与论文链接见原文页面。",
+      "change_notice": "摘要由 AI 根据 arXiv CC0 元数据（标题、摘要等）整理；未读取或转载论文全文。"
+    },
+    {
+      "id": "voa-chinese-news",
+      "name": "美国之音中文网",
+      "article_hosts": [
+        "www.voachinese.com"
+      ],
+      "category": "中国及国际新闻",
+      "content_type": "news",
+      "url": "https://www.voachinese.com/api/zm_yql-vomx-tpeybti",
+      "max_entries": 100,
+      "exclude_third_party_agencies": true,
+      "license_name": "美国之音自制内容：公共财产",
+      "license_url": "https://www.voachinese.com/p/3874.html",
+      "republish_credit": "Source: Voice of America Chinese (voanews.com).",
+      "change_notice": "AI 对美国之音自制文字作独立中文概述；未复用原文句子，未采集图片、音视频或第三方通讯社稿件。",
+      "enabled": true
+    },
+    {
+      "id": "easy-mandarin-news",
+      "name": "Easy Mandarin News（AI 简化中文新闻）",
+      "article_hosts": [
+        "easymandarin.news"
+      ],
+      "category": "综合新闻（AI 二次整理）",
+      "content_type": "news",
+      "url": "https://easymandarin.news/en",
+      "format": "html_index",
+      "max_entries": 30,
+      "fetch_article_body": true,
+      "allow_title_only": false,
+      "title_only_max_age_hours": 72,
+      "license_name": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "republish_credit": "Source: Easy Mandarin News (CC BY 4.0) https://easymandarin.news",
+      "change_notice": "本摘要由 AI 基于 Easy Mandarin News 的 AI 简化稿再次整理；原报道来源和署名见该站文章页，内容可能存在误差。",
+      "editorial_note": "二手 AI 辅助新闻来源；不得标为原始报道或权威首发，需展示 Easy Mandarin News 原文链接和上游出处入口。",
+      "quality_hold": true,
+      "quality_hold_reason": "2026-10-24 单样本复核发现其报道把已于 2020 年由世界气象组织台风委员会退役、并由 Koto 替代的 Kammuri 写成 2026 年逼近中国的第 30 号台风；待完成独立准确性复核后再恢复。",
+      "quality_hold_evidence": "artifacts/quality-evaluation/2026-10-24-qwen-source-accuracy-hold.md",
+      "enabled": true
+    },
+    {
+      "id": "eu-horizon-magazine",
+      "name": "Horizon Magazine（欧盟科研与创新杂志）",
+      "article_hosts": [
+        "projects.research-and-innovation.ec.europa.eu"
+      ],
+      "category": "科学与创新专题",
+      "content_type": "article",
+      "url": "https://projects.research-and-innovation.ec.europa.eu/horizon-magazine/articles.xml",
+      "max_entries": 50,
+      "require_author": true,
+      "license_name": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "republish_credit": "This article was originally published in Horizon, the EU Research and Innovation magazine.",
+      "change_notice": "此内容为 AI 生成的中文摘要，已对原文进行概括和翻译。",
+      "enabled": true
+    },
+    {
+      "id": "global-voices",
+      "name": "Global Voices（全球之声）",
+      "article_hosts": [
+        "globalvoices.org"
+      ],
+      "category": "中国观察专题",
+      "content_type": "article",
+      "url": "https://globalvoices.org/-/world/east-asia/china/feed/",
+      "max_entries": 30,
+      "require_author": true,
+      "require_named_author": true,
+      "exclude_external_republication": true,
+      "license_name": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "republish_credit": "Originally published by Global Voices. Reused under CC BY 3.0.",
+      "change_notice": "此内容为 AI 生成的中文摘要或翻译；作者与原文链接见来源，图片、音视频等第三方素材未采集。",
+      "enabled": true
+    },
+    {
+      "id": "anoni-news-zh-cn",
+      "name": "anoni.net 新闻导读",
+      "article_hosts": [
+        "anoni.net"
+      ],
+      "category": "科技与网络政策专题文章",
+      "content_type": "article",
+      "url": "https://anoni.net/news/zh-cn/feed.xml",
+      "max_entries": 40,
+      "require_author": true,
+      "license_name": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "republish_credit": "来源：anoni.net 社区（CC BY 4.0），原文：https://anoni.net/news/zh-cn/",
+      "change_notice": "AI 根据 anoni.net 中文导读整理摘要；导读所引用的原始报道版权仍属各原作者，未抓取或复用上游全文。",
+      "editorial_note": "科技、隐私、匿名网络与网络政策专题，不代表中国综合新闻；不得将上游来源呈现为本项目已获授权。",
+      "enabled": true
+    },
+    {
+      "id": "traveldaily-cn",
+      "name": "环球旅讯（非商业授权）",
+      "article_hosts": [
+        "www.traveldaily.cn"
+      ],
+      "category": "旅游与文旅专题",
+      "content_type": "article",
+      "url": "https://www.traveldaily.cn/",
+      "format": "html_index",
+      "parser": "traveldaily",
+      "max_entries": 30,
+      "fetch_article_body": true,
+      "require_author": true,
+      "require_article_byline": true,
+      "allow_title_only": false,
+      "title_only_max_age_hours": 72,
+      "license_name": "CC BY-NC 4.0（仅限非商业使用）",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "republish_credit": "来源：环球旅讯；作者署名与原文链接见本条原文页。",
+      "change_notice": "AI 对环球旅讯文章进行摘要整理；依据 CC BY-NC 4.0 非商业使用，已改写并保留原文链接。第三方转载内容不纳入。",
+      "editorial_note": "仅作旅游与文旅行业专题，不计入中国综合新闻覆盖；若产品用于商业目的，必须先停用此来源或另行取得许可。只接收经逐篇许可和环球旅讯署名校验的文章。",
+      "enabled": true
+    },
+    {
+      "id": "news-central-site",
+      "name": "News Central Site",
+      "article_hosts": [
+        "newscentral.site"
+      ],
+      "category": "国际多类别新闻",
+      "content_type": "news",
+      "url": "https://newscentral.site/rss/en.xml",
+      "max_entries": 50,
+      "license_name": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "republish_credit": "来源：News Central Site（CC BY 4.0）；原始报道来源见该站原文页。",
+      "change_notice": "本条由 AI 基于 News Central Site 英文报道翻译并总结；该站部分报道由自动写作工具辅助，原始报道媒体见原文页。不含图片、视频或标识。",
+      "editorial_note": "国际多类别二手新闻补充源，不代表中国国内新闻覆盖，也不作为权威首发；该站部分报道由自动写作工具辅助，须保留其原文链接及原始报道媒体出处。",
+      "enabled": true
+    }
+  ]
+}

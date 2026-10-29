@@ -1,0 +1,552 @@
+{
+  "schema_version": 1,
+  "scope_keys": [
+    "feed_metadata_collection",
+    "article_text_retrieval",
+    "third_party_ai_processing",
+    "summary_retention",
+    "public_app_display"
+  ],
+  "notice": "A reachable web page or RSS feed is not by itself a rights grant. A publicly posted free license can authorize reuse without a separate paid contract when its scope covers the complete processing path; attribution, source links, change notices and exclusions still apply. Only reviewed evidence for the listed processing scopes can change a source to cleared. license_granularity distinguishes source-wide rights from per-article rights; per-article sources cannot be enabled through a source-level clearance. VOA Chinese clearance applies only to VOA-produced text and RSS metadata; entries identified as third-party agency content are excluded. This register is operational tracking, not legal advice.",
+  "sources": [
+    {
+      "source_id": "chinanews-domestic",
+      "publisher": "中国新闻网",
+      "status": "permission_required",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "项目已有记录指出该站转载、摘编、复制或镜像需书面授权；需明确本产品 AI 处理、摘要留存与 App 展示是否获准。",
+      "terms_review": {
+        "checked_on": "2026-10-24",
+        "official_urls": [
+          "https://www.chinanews.com/rss/",
+          "https://www.chinanews.com/common/footer/law.shtml"
+        ],
+        "finding": "中新网官方 RSS 页面列出时政、社会、财经、生活、健康、文娱、体育、教育、法治等分类；页面版权提示要求刊用稿件前取得书面授权。官方法律声明进一步说明，标注来源/电头的受版权保护文字未经书面授权不得转载、链接、转贴或以其他方式使用；转载稿还须核实并取得原著作权人授权。RSS 可订阅不构成本项目授权。此核查未改变 permission_required 状态；RSS 元数据、正文获取、第三方 AI 处理、摘要留存和公众 App 展示仍需逐项明确许可。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "chinanews-world",
+      "publisher": "中国新闻网",
+      "status": "permission_required",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "与中国新闻网其他分类共用权利方；仍须逐项确认本产品处理链路。",
+      "terms_review": {
+        "checked_on": "2026-10-24",
+        "official_urls": [
+          "https://www.chinanews.com/rss/",
+          "https://www.chinanews.com/common/footer/law.shtml"
+        ],
+        "finding": "中新网官方 RSS 页面列出时政、社会、财经、生活、健康、文娱、体育、教育、法治等分类；页面版权提示要求刊用稿件前取得书面授权。官方法律声明进一步说明，标注来源/电头的受版权保护文字未经书面授权不得转载、链接、转贴或以其他方式使用；转载稿还须核实并取得原著作权人授权。RSS 可订阅不构成本项目授权。此核查未改变 permission_required 状态；RSS 元数据、正文获取、第三方 AI 处理、摘要留存和公众 App 展示仍需逐项明确许可。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "chinanews-society",
+      "publisher": "中国新闻网",
+      "status": "permission_required",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "与中国新闻网其他分类共用权利方；仍须逐项确认本产品处理链路。",
+      "terms_review": {
+        "checked_on": "2026-10-24",
+        "official_urls": [
+          "https://www.chinanews.com/rss/",
+          "https://www.chinanews.com/common/footer/law.shtml"
+        ],
+        "finding": "中新网官方 RSS 页面列出时政、社会、财经、生活、健康、文娱、体育、教育、法治等分类；页面版权提示要求刊用稿件前取得书面授权。官方法律声明进一步说明，标注来源/电头的受版权保护文字未经书面授权不得转载、链接、转贴或以其他方式使用；转载稿还须核实并取得原著作权人授权。RSS 可订阅不构成本项目授权。此核查未改变 permission_required 状态；RSS 元数据、正文获取、第三方 AI 处理、摘要留存和公众 App 展示仍需逐项明确许可。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "chinanews-finance",
+      "publisher": "中国新闻网",
+      "status": "permission_required",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "与中国新闻网其他分类共用权利方；仍须逐项确认本产品处理链路。",
+      "terms_review": {
+        "checked_on": "2026-10-24",
+        "official_urls": [
+          "https://www.chinanews.com/rss/",
+          "https://www.chinanews.com/common/footer/law.shtml"
+        ],
+        "finding": "中新网官方 RSS 页面列出时政、社会、财经、生活、健康、文娱、体育、教育、法治等分类；页面版权提示要求刊用稿件前取得书面授权。官方法律声明进一步说明，标注来源/电头的受版权保护文字未经书面授权不得转载、链接、转贴或以其他方式使用；转载稿还须核实并取得原著作权人授权。RSS 可订阅不构成本项目授权。此核查未改变 permission_required 状态；RSS 元数据、正文获取、第三方 AI 处理、摘要留存和公众 App 展示仍需逐项明确许可。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "chinanews-life",
+      "publisher": "中国新闻网",
+      "status": "permission_required",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "与中国新闻网其他分类共用权利方；仍须逐项确认本产品处理链路。",
+      "terms_review": {
+        "checked_on": "2026-10-24",
+        "official_urls": [
+          "https://www.chinanews.com/rss/",
+          "https://www.chinanews.com/common/footer/law.shtml"
+        ],
+        "finding": "中新网官方 RSS 页面列出时政、社会、财经、生活、健康、文娱、体育、教育、法治等分类；页面版权提示要求刊用稿件前取得书面授权。官方法律声明进一步说明，标注来源/电头的受版权保护文字未经书面授权不得转载、链接、转贴或以其他方式使用；转载稿还须核实并取得原著作权人授权。RSS 可订阅不构成本项目授权。此核查未改变 permission_required 状态；RSS 元数据、正文获取、第三方 AI 处理、摘要留存和公众 App 展示仍需逐项明确许可。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "chinanews-culture",
+      "publisher": "中国新闻网",
+      "status": "permission_required",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "与中国新闻网其他分类共用权利方；仍须逐项确认本产品处理链路。",
+      "terms_review": {
+        "checked_on": "2026-10-24",
+        "official_urls": [
+          "https://www.chinanews.com/rss/",
+          "https://www.chinanews.com/common/footer/law.shtml"
+        ],
+        "finding": "中新网官方 RSS 页面列出时政、社会、财经、生活、健康、文娱、体育、教育、法治等分类；页面版权提示要求刊用稿件前取得书面授权。官方法律声明进一步说明，标注来源/电头的受版权保护文字未经书面授权不得转载、链接、转贴或以其他方式使用；转载稿还须核实并取得原著作权人授权。RSS 可订阅不构成本项目授权。此核查未改变 permission_required 状态；RSS 元数据、正文获取、第三方 AI 处理、摘要留存和公众 App 展示仍需逐项明确许可。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "chinanews-sports",
+      "publisher": "中国新闻网",
+      "status": "permission_required",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "与中国新闻网其他分类共用权利方；仍须逐项确认本产品处理链路。",
+      "terms_review": {
+        "checked_on": "2026-10-24",
+        "official_urls": [
+          "https://www.chinanews.com/rss/",
+          "https://www.chinanews.com/common/footer/law.shtml"
+        ],
+        "finding": "中新网官方 RSS 页面列出时政、社会、财经、生活、健康、文娱、体育、教育、法治等分类；页面版权提示要求刊用稿件前取得书面授权。官方法律声明进一步说明，标注来源/电头的受版权保护文字未经书面授权不得转载、链接、转贴或以其他方式使用；转载稿还须核实并取得原著作权人授权。RSS 可订阅不构成本项目授权。此核查未改变 permission_required 状态；RSS 元数据、正文获取、第三方 AI 处理、摘要留存和公众 App 展示仍需逐项明确许可。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "chinanews-education",
+      "publisher": "中国新闻网",
+      "status": "permission_required",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "与中国新闻网其他分类共用权利方；仍须逐项确认本产品处理链路。",
+      "terms_review": {
+        "checked_on": "2026-10-24",
+        "official_urls": [
+          "https://www.chinanews.com/rss/",
+          "https://www.chinanews.com/common/footer/law.shtml"
+        ],
+        "finding": "中新网官方 RSS 页面列出时政、社会、财经、生活、健康、文娱、体育、教育、法治等分类；页面版权提示要求刊用稿件前取得书面授权。官方法律声明进一步说明，标注来源/电头的受版权保护文字未经书面授权不得转载、链接、转贴或以其他方式使用；转载稿还须核实并取得原著作权人授权。RSS 可订阅不构成本项目授权。此核查未改变 permission_required 状态；RSS 元数据、正文获取、第三方 AI 处理、摘要留存和公众 App 展示仍需逐项明确许可。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "chinanews-legal",
+      "publisher": "中国新闻网",
+      "status": "permission_required",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "与中国新闻网其他分类共用权利方；仍须逐项确认本产品处理链路。",
+      "terms_review": {
+        "checked_on": "2026-10-24",
+        "official_urls": [
+          "https://www.chinanews.com/rss/",
+          "https://www.chinanews.com/common/footer/law.shtml"
+        ],
+        "finding": "中新网官方 RSS 页面列出时政、社会、财经、生活、健康、文娱、体育、教育、法治等分类；页面版权提示要求刊用稿件前取得书面授权。官方法律声明进一步说明，标注来源/电头的受版权保护文字未经书面授权不得转载、链接、转贴或以其他方式使用；转载稿还须核实并取得原著作权人授权。RSS 可订阅不构成本项目授权。此核查未改变 permission_required 状态；RSS 元数据、正文获取、第三方 AI 处理、摘要留存和公众 App 展示仍需逐项明确许可。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "github-blog",
+      "publisher": "GitHub Blog",
+      "status": "unverified",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "需审阅当前官方内容条款及是否覆盖外部模型处理和面向公众展示摘要。",
+      "terms_review": {
+        "checked_on": "2026-10-19",
+        "official_urls": [
+          "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+        ],
+        "finding": "GitHub 条款说明 GitHub 对其网站和服务内容保留未明确授予的权利，用户内容许可针对用户发布内容；未发现该条款授予本项目转载 GitHub Blog 文章并用于第三方模型摘要和 App 展示的通用许可。仍需核验具体文章权利方及单篇许可。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "openai-news",
+      "publisher": "OpenAI News",
+      "status": "unverified",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "需审阅当前官方内容条款及是否覆盖外部模型处理和面向公众展示摘要。",
+      "terms_review": {
+        "checked_on": "2026-10-19",
+        "official_urls": [
+          "https://openai.com/policies/terms-of-use/"
+        ],
+        "finding": "已查 OpenAI 使用条款；其主要约定 OpenAI 服务使用及输入/输出，未发现该条款授予本项目复用 OpenAI News 文章、向第三方模型传输、留存摘要并向 App 用户展示的通用许可。具体文章及适用地区条款仍需核验。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "inside-java",
+      "publisher": "Inside Java",
+      "status": "unverified",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "需审阅当前官方内容条款及是否覆盖外部模型处理和面向公众展示摘要。",
+      "terms_review": {
+        "checked_on": "2026-10-19",
+        "official_urls": [
+          "https://inside.java/",
+          "https://www.oracle.com/legal/terms/"
+        ],
+        "finding": "Inside Java 自述为 Oracle Java 团队的新闻与观点；Oracle 网站条款提示未经授权复制、分发、修改或公开展示受版权保护作品可能侵权。没有找到覆盖本项目 AI 摘要及 App 展示的许可，需向 Oracle/文章权利方确认。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "huggingface-blog",
+      "publisher": "Hugging Face Blog",
+      "status": "unverified",
+      "reviewed_on": null,
+      "evidence_reference": null,
+      "scopes": {
+        "feed_metadata_collection": "unverified",
+        "article_text_retrieval": "unverified",
+        "third_party_ai_processing": "unverified",
+        "summary_retention": "unverified",
+        "public_app_display": "unverified"
+      },
+      "notes": "需审阅当前官方内容条款及是否覆盖外部模型处理和面向公众展示摘要。",
+      "terms_review": {
+        "checked_on": "2026-10-19",
+        "official_urls": [
+          "https://huggingface.co/terms-of-service"
+        ],
+        "finding": "Hugging Face 条款明确可访问或下载内容受相应内容许可及条款约束；平台服务条款未构成对所有 Blog 文章的统一再利用授权。需逐篇确认文章作者/权利方和许可范围。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "eu-horizon-magazine",
+      "publisher": "Horizon Magazine（欧盟科研与创新杂志）",
+      "status": "cleared",
+      "reviewed_on": "2026-10-20",
+      "evidence_reference": "https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/republish-our-stories",
+      "scopes": {
+        "feed_metadata_collection": "granted",
+        "article_text_retrieval": "granted",
+        "third_party_ai_processing": "granted",
+        "summary_retention": "granted",
+        "public_app_display": "granted"
+      },
+      "notes": "官方页面明确所有 Horizon 文章可按 CC BY 4.0 免费再发布并可翻译，允许概括/翻译后发布的改编文本。履行原记者署名、原文链接、指定英文刊源说明、CC BY 4.0 链接及标注改动。页面把图片单独处理；本 App 不采集或展示配图。此内容许可记录不代表中国大陆互联网新闻信息服务运营许可已经满足。",
+      "terms_review": {
+        "checked_on": "2026-10-24",
+        "official_urls": [
+          "https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/republish-our-stories",
+          "https://projects.research-and-innovation.ec.europa.eu/horizon-magazine/articles.xml",
+          "https://creativecommons.org/licenses/by/4.0/"
+        ],
+        "finding": "Horizon Magazine 官方再发布页称其所有文章均可依 CC BY 4.0 免费再发布，要求保留原记者署名、链接回原文并显示指定英文声明；许可页明确允许翻译。页面另称照片许可应逐图确认，因此本项目仅采集和摘要文章文字，不采集图片。官方 General RSS 路径已按其页面链接更正，但宿主机和生产容器请求均返回 HTTP 403；许可通过与运行可达性分开记录。公众服务运营许可仍单独评估。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "global-voices",
+      "publisher": "Global Voices（全球之声）",
+      "status": "cleared",
+      "reviewed_on": "2026-10-24",
+      "evidence_reference": "https://globalvoices.org/about/global-voices-attribution-policy/",
+      "scopes": {
+        "feed_metadata_collection": "granted",
+        "article_text_retrieval": "granted",
+        "third_party_ai_processing": "granted",
+        "summary_retention": "granted",
+        "public_app_display": "granted"
+      },
+      "notes": "官网再发布政策明确，除另有说明外，Global Voices 自行创作的内容按 CC BY 3.0 免费授权，可改编、翻译及商业使用；须署名、链接原文及许可并说明改动。来源 RSS 明确欢迎网站嵌入。文章页可能转载合作媒体稿件，采集器只收录带作者且没有外部转载/内容合作声明的条目；图像、音频、视频不采集。该许可记录仅覆盖 Global Voices 自有文字，不代表中国大陆新闻服务运营许可。",
+      "terms_review": {
+        "checked_on": "2026-10-20",
+        "official_urls": [
+          "https://globalvoices.org/about/global-voices-attribution-policy/",
+          "https://globalvoices.org/feeds/",
+          "https://globalvoices.org/about/global-voices-policy-on-ai/",
+          "https://creativecommons.org/licenses/by/3.0/"
+        ],
+        "finding": "Global Voices 官方再发布政策称除另有说明外，其创作内容采用 CC BY 3.0，明确允许任何目的（含商业）的分享和改编，要求署名作者、链接原故事与许可并说明改动；RSS 页面欢迎网站嵌入。另行发布的 AI 政策约束其投稿者和编辑流程，表示 Global Voices 自身不接受自动生成写作/翻译；它没有在 CC BY 再发布条款中排除下游 AI 摘要。本项目将其视为编辑政策与公开许可范围不同，但继续显示 AI 改写说明。照片、音频、视频等第三方素材不采集。2026-10-24 从官方中国分类 RSS 读取 15 条，10 月 1—16 日有 5 条；其中 1 条声明源自 Hong Kong Free Press 的合作转载，应排除，另有 1 条仅署名 Guest Contributor，不能满足可识别作者署名要求。其余可确认作者的条目可作为中国观察专题补充源，不能代表每日、全类别中国新闻覆盖。新增 require_named_author 规则排除泛化署名。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "voa-chinese-news",
+      "publisher": "美国之音中文网（VOA Chinese）",
+      "status": "verified_but_unreachable",
+      "reviewed_on": "2026-10-20",
+      "evidence_reference": "https://www.voachinese.com/p/3874.html",
+      "scopes": {
+        "feed_metadata_collection": "granted",
+        "article_text_retrieval": "granted",
+        "third_party_ai_processing": "granted",
+        "summary_retention": "granted",
+        "public_app_display": "granted"
+      },
+      "notes": "VOA 中文网官方条款明确欢迎使用其网站资讯、注明来源且无需另行许可，并声明美国之音自制文字属于公共财产；官网 RSS 页面鼓励把 RSS 加入网站或博客。按官方条款的广泛使用许可及自制文字公共领域声明，项目将其自制文字用于 AI 摘要、摘要留存和 App 展示；这是依据条款作出的运营解释，不是 VOA 对 AI 用途的单独确认。若引用原句必须保持原样，因此 Agent 对该来源只做独立转述、不复用原句。来源条款排除第三方通讯社材料；采集器过滤正文中标记的 AP/美联社、Reuters/路透社、AFP/法新社等稿件，不采集图片/音视频，不使用 VOA 标识。内容按中国及国际新闻展示，并保留来源及原文链接。2026-10-20 在 Windows 宿主机 RSS 抓取返回 HTTP 200，但生产 Docker Worker 对同一源站返回 HTTP 403；因此当前状态是权利条款已核验、生产网络不可达，运行时门禁不会采集。只有容器内抓取恢复并验证后才可改为 cleared。来源许可不代表中国大陆新闻服务运营许可。",
+      "terms_review": {
+        "checked_on": "2026-10-20",
+        "official_urls": [
+          "https://www.voachinese.com/p/3874.html",
+          "https://www.voachinese.com/rssfeeds",
+          "https://www.voachinese.com/api/zm_yql-vomx-tpeybti"
+        ],
+        "finding": "VOA 中文网条款称可使用其资讯且无需另外许可，使用时注明 voanews.com/美国之音/VOA；官方自制文字、声音和图像属于公共财产；引用资讯不可删改。条款明确排除美联社作品，中文新闻 RSS 页面提供新闻及多主题栏目并鼓励加入网站或博客。英语 VOA Terms 还列出 Reuters、AFP 等第三方通讯社限制，因此按保守策略过滤 RSS 摘要/正文中明确标记的美联社、路透社、法新社等内容。摘要不使用直接原句，显示 AI 独立概述标识。2026-10-20 实时 RSS 返回 20 条新闻，当前前 20 条中未出现上述第三方通讯社标记；需持续监测，关键文章仍可能含未标记的第三方素材。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "easy-mandarin-news",
+      "publisher": "Easy Mandarin News",
+      "status": "cleared",
+      "reviewed_on": "2026-10-22",
+      "evidence_reference": "https://easymandarin.news/en/license",
+      "scopes": {
+        "feed_metadata_collection": "granted",
+        "article_text_retrieval": "granted",
+        "third_party_ai_processing": "granted",
+        "summary_retention": "granted",
+        "public_app_display": "granted"
+      },
+      "notes": "Easy Mandarin News 的公开 Reuse Guide 声明全部文章采用 CC BY 4.0，允许免费商业/非商业使用、改写、翻译、摘要和重新分发，并明确允许 App 内使用；指定署名为 Source: Easy Mandarin News (CC BY 4.0) https://easymandarin.news，允许在不严重改变原意的情况下修改。公开 robots.txt 允许站点路径抓取；首页提供文章卡片和日期，不提供 RSS。本项目只读取其授权文章页面的文字，不采集音频、图片或站点标识；来源显示为 AI 二次整理的中文新闻，摘要注明其 AI 简化稿可能存在误差，并链接其文章页，上游报道来源与署名按该文章页呈现。该站的许可声明是其对自身文章的公开许可依据，不替代中国大陆公众新闻服务运营资格核验。",
+      "terms_review": {
+        "checked_on": "2026-10-22",
+        "official_urls": [
+          "https://easymandarin.news/en/license",
+          "https://easymandarin.news/en/about",
+          "https://easymandarin.news/robots.txt"
+        ],
+        "finding": "官方 Reuse Guide 表示全部文章按 CC BY 4.0 发布，允许任何目的（商业或非商业）使用，明确允许修改、翻译、摘要、摘录、改版和重新分发；要求使用指定署名并标明许可。其条款明确允许付费教学材料、App 内展示及商业服务使用；修改不得严重改变原意。About 说明文章由 AI 自动生成/编辑，来源包括 VOA 和 Global Voices 等商业许可来源，并警告可能有错误；抽查文章页面显示上游原报道链接、作者/出版者、其内容许可标签及 AI-assisted 标记。robots.txt 对 User-Agent * 允许站点路径访问。由此将 Easy Mandarin News 自身文章作为免费 CC BY 4.0 的二手新闻材料，不将它视为原始报道；生产链路须将其英文译文段落作为全文证据，并在 App 展示指定署名、许可、改写说明和文章页链接。上游报道的内容仅通过 Easy Mandarin News 授权文章及其来源页面展示，不另行抓取上游文章。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "arxiv-cs-ai",
+      "publisher": "arXiv cs.AI",
+      "status": "metadata_only",
+      "reviewed_on": "2026-10-22",
+      "evidence_reference": "https://info.arxiv.org/help/api/tou.html",
+      "scopes": {
+        "feed_metadata_collection": "granted",
+        "article_text_retrieval": "not_granted",
+        "third_party_ai_processing": "granted",
+        "summary_retention": "granted",
+        "public_app_display": "granted"
+      },
+      "notes": "仅按 arXiv 官方 API 条款处理 CC0 描述性元数据，包括标题、摘要、作者、标识符与分类；只保留并展示基于 RSS 摘要元数据生成的 AI 摘要和原文链接。不得读取或保存论文页面全文、PDF，亦不得声称总结了全文。论文全文许可仍按单篇版本分别适用，未获通用授权。",
+      "terms_review": {
+        "checked_on": "2026-10-22",
+        "official_urls": [
+          "https://info.arxiv.org/help/license/index.html",
+          "https://info.arxiv.org/help/api/tou.html",
+          "https://info.arxiv.org/help/api/user-manual.html"
+        ],
+        "finding": "arXiv 官方 API 使用条款明确 CC0 适用于描述性元数据，并允许收集、存储、改写和分享此类元数据，包括摘要；条款亦明确论文全文须依每篇论文适用许可处理。因此本项目仅按元数据范围接入 RSS 摘要，不抓取论文全文；API/RSS 请求遵守官方频率限制。"
+      },
+      "license_granularity": "metadata_only"
+    },
+    {
+      "source_id": "arxiv-cs-lg",
+      "publisher": "arXiv cs.LG",
+      "status": "metadata_only",
+      "reviewed_on": "2026-10-22",
+      "evidence_reference": "https://info.arxiv.org/help/api/tou.html",
+      "scopes": {
+        "feed_metadata_collection": "granted",
+        "article_text_retrieval": "not_granted",
+        "third_party_ai_processing": "granted",
+        "summary_retention": "granted",
+        "public_app_display": "granted"
+      },
+      "notes": "仅按 arXiv 官方 API 条款处理 CC0 描述性元数据，包括标题、摘要、作者、标识符与分类；只保留并展示基于 RSS 摘要元数据生成的 AI 摘要和原文链接。不得读取或保存论文页面全文、PDF，亦不得声称总结了全文。论文全文许可仍按单篇版本分别适用，未获通用授权。",
+      "terms_review": {
+        "checked_on": "2026-10-22",
+        "official_urls": [
+          "https://info.arxiv.org/help/license/index.html",
+          "https://info.arxiv.org/help/api/tou.html",
+          "https://info.arxiv.org/help/api/user-manual.html"
+        ],
+        "finding": "arXiv 官方 API 使用条款明确 CC0 适用于描述性元数据，并允许收集、存储、改写和分享此类元数据，包括摘要；条款亦明确论文全文须依每篇论文适用许可处理。因此本项目仅按元数据范围接入 RSS 摘要，不抓取论文全文；API/RSS 请求遵守官方频率限制。"
+      },
+      "license_granularity": "metadata_only"
+    },
+    {
+      "source_id": "anoni-news-zh-cn",
+      "publisher": "anoni.net 新闻导读",
+      "status": "cleared",
+      "reviewed_on": "2026-10-22",
+      "evidence_reference": "https://anoni.net/news/zh-cn/about/",
+      "scopes": {
+        "feed_metadata_collection": "granted",
+        "article_text_retrieval": "granted",
+        "third_party_ai_processing": "granted",
+        "summary_retention": "granted",
+        "public_app_display": "granted"
+      },
+      "notes": "仅清权 anoni.net 自行创作并按 CC BY 4.0 发布的中文导读文字。RSS 提供完整导读、日期、anoni.net 社区署名和原文链接。导读中链接或引用的上游报道仍属各自权利人，不另行采集或复用。只按科技、隐私与网络政策专题文章展示，遵守 CC BY 4.0 署名和许可链接要求。",
+      "terms_review": {
+        "checked_on": "2026-10-22",
+        "official_urls": [
+          "https://anoni.net/news/zh-cn/about/",
+          "https://anoni.net/news/zh-cn/feed.xml",
+          "https://anoni.net/robots.txt",
+          "https://creativecommons.org/licenses/by/4.0/"
+        ],
+        "finding": "站点关于页说明简体中文导读文章采用 CC BY 4.0，署名 anoni.net 社区，引用原文版权属于原作者；robots.txt 对通用 User-Agent 允许访问。实时 RSS HTTP 200，lastBuildDate 为 2026-10-22，文章含完整导读正文、dc:creator、发布时间及链接；抽查文章页 HTTP 200。仅使用其导读作品及其内部引用信息，不抓取上游文章。许可对该站原创导读的复制/改编/传播提供免费授权，不扩展至引文中的第三方内容。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "traveldaily-cn",
+      "publisher": "环球旅讯",
+      "status": "cleared",
+      "reviewed_on": "2026-10-22",
+      "evidence_reference": "https://www.traveldaily.cn/service/copyright/",
+      "scopes": {
+        "feed_metadata_collection": "granted",
+        "article_text_retrieval": "granted",
+        "third_party_ai_processing": "granted",
+        "summary_retention": "granted",
+        "public_app_display": "granted"
+      },
+      "notes": "仅用于本项目当前无广告、无付费功能的非商业演示与服务。环球旅讯版权声明明确将非商业用途指向 CC BY-NC 4.0，并区分其自有内容与转载第三方内容。采集器逐篇要求文章页展示 CC BY-NC 4.0 与“环球旅讯”作者署名，只读取旅游目的地栏目中的文章正文，不读取图片；App 显示原作者、来源、许可链接、改写说明和原文链接。若服务转为商业目的，必须先停用该来源或另行获批。",
+      "terms_review": {
+        "checked_on": "2026-10-22",
+        "official_urls": [
+          "https://www.traveldaily.cn/service/copyright/",
+          "https://www.traveldaily.cn/destination/",
+          "https://www.traveldaily.cn/robots.txt",
+          "https://creativecommons.org/licenses/by-nc/4.0/"
+        ],
+        "finding": "环球旅讯版权声明称非商业使用遵循 CC BY-NC 4.0，商业使用其版权内容需书面授权；第三方转载内容版权属于原媒体及作者。Creative Commons 官方说明允许非商业分享与演绎，要求署名、提供许可链接和修改说明，并将商业目的解释为主要为商业优势或金钱回报。本项目仅在无广告、无收费、无其他商业目的期间启用，并逐篇检查文章页含 CC BY-NC 4.0 标记及环球旅讯作者署名；没有署名或许可标记时拒绝保存。只采集文旅目的地栏目正文，不采集图像或页面脚本。robots.txt 允许通用 User-Agent 访问。该许可不替代中国大陆公众新闻服务资质审查。"
+      },
+      "license_granularity": "source_wide"
+    },
+    {
+      "source_id": "news-central-site",
+      "publisher": "News Central Site",
+      "status": "cleared",
+      "reviewed_on": "2026-10-23",
+      "evidence_reference": "https://newscentral.site/terms-and-conditions/",
+      "scopes": {
+        "feed_metadata_collection": "granted",
+        "article_text_retrieval": "granted",
+        "third_party_ai_processing": "granted",
+        "summary_retention": "granted",
+        "public_app_display": "granted"
+      },
+      "notes": "CC BY 4.0 来源，涵盖该站自写文字全文的复制、翻译、改编和商业再发布；必须署名 News Central Site、链接其规范文章页并说明改动。其公开 RSS 的 content:encoded 含完整故事文本，robots.txt 允许访问公开内容；不使用图片、视频或标识。部分文章为 AI 辅助摘要且基于第三方媒体报道，Agent 须把 News Central Site 作为直接来源，并保留文章页列出的原始报道来源，不得称为上游首发全文。API 无密钥只返回短摘要，但 RSS/公开文章页不受该 API full-text scope 限制。",
+      "terms_review": {
+        "checked_on": "2026-10-23",
+        "official_urls": [
+          "https://newscentral.site/rss-feeds/",
+          "https://newscentral.site/terms-and-conditions/",
+          "https://newscentral.site/robots.txt",
+          "https://newscentral.site/api/",
+          "https://creativecommons.org/licenses/by/4.0/"
+        ],
+        "finding": "官方 RSS 页面明确 feeds 可供其他新闻网站和应用使用，故事按 CC BY 4.0 授权完整或部分展示/转载，须署名并链接每篇 News Central Site 原文；条款允许复制、再发布、翻译及改编并用于商业用途，但许可只覆盖其自写文字，不覆盖第三方图片、视频、标识或上游报道原文。实时 RSS HTTP 200、robots.txt 对公开路径 Allow: /，content:encoded 提供完整报道正文；实测公开文章页含完整正文、上游报道媒体署名及复用许可说明。无密钥 API 仅返回摘要是 API 权限边界，不限制通过获许可的 RSS 和公开文章页读取站方自写报道。"
+      },
+      "license_granularity": "source_wide"
+    }
+  ]
+}

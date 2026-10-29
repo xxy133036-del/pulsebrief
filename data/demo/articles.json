@@ -1,0 +1,29 @@
+{
+  "notice": "Everything in this file is invented test material. It is not a real article, publication, benchmark, announcement, or source.",
+  "articles": [
+    {
+      "source_id": "demo-lab",
+      "title": "[演示素材] AI 开源项目的文档体验改进练习",
+      "summary": "演示内容：一次虚构的项目公告，帮助检查 AI 与开源话题的匹配、摘要和原文链接展示。",
+      "content": "演示素材，不代表现实事件。练习案例讨论开源 AI 项目的文档与新手引导改进，不含真实版本号、性能数据或发布日期。",
+      "url": "https://example.com/ai-news-demo/open-source",
+      "category": "open-source"
+    },
+    {
+      "source_id": "demo-lab",
+      "title": "[演示素材] AI 助手与多步骤工具调用的样例",
+      "summary": "演示内容：一个虚构的开发者工具练习，用来显示工具、证据与个人关注之间的关联。",
+      "content": "演示素材，不代表现实事件。示例助手会根据已提供的候选内容，决定查询、阅读或结束。本文不包含真实产品名称或功能承诺。",
+      "url": "https://example.com/ai-news-demo/tool-use",
+      "category": "developer-tools"
+    },
+    {
+      "source_id": "demo-lab",
+      "title": "[演示素材] 大模型研究速读页面的筛选示例",
+      "summary": "演示内容：关于中文 AI 研究摘要页面的虚构设计示例，用来检查来源、相关理由和收藏显示。",
+      "content": "演示素材，不代表现实论文或研究结论。这个练习没有真实论文地址、指标、实验或事实性声明。",
+      "url": "https://example.com/ai-news-demo/research",
+      "category": "research"
+    }
+  ]
+}
